@@ -1,0 +1,2 @@
+rootProject.name = "My Register"
+include ':app'
